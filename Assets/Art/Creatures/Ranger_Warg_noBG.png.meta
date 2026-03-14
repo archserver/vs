@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: dd95c65aca635b8428c01f15061addd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2050051548974976927
+    second: Ranger_Warg_noBG_0
+  - first:
+      213: 5777950296335228493
+    second: Ranger_Warg_noBG_1
+  - first:
+      213: 3116643355058371347
+    second: Ranger_Warg_noBG_2
+  - first:
+      213: 8905785903914639033
+    second: Ranger_Warg_noBG_3
+  - first:
+      213: 8432563641279111694
+    second: Ranger_Warg_noBG_4
+  - first:
+      213: -7706193357816417999
+    second: Ranger_Warg_noBG_5
+  - first:
+      213: -1762705348193514829
+    second: Ranger_Warg_noBG_6
+  - first:
+      213: -2765509820440821034
+    second: Ranger_Warg_noBG_7
+  - first:
+      213: 1281149711276756800
+    second: Ranger_Warg_noBG_8
+  - first:
+      213: -2238555363297900158
+    second: Ranger_Warg_noBG_9
+  - first:
+      213: -7399056758503960335
+    second: Ranger_Warg_noBG_10
+  - first:
+      213: 4471523245668715502
+    second: Ranger_Warg_noBG_11
+  - first:
+      213: -3755085858557051282
+    second: Ranger_Warg_noBG_12
+  - first:
+      213: 5946699559543259712
+    second: Ranger_Warg_noBG_13
+  - first:
+      213: -976964421165753651
+    second: Ranger_Warg_noBG_14
+  - first:
+      213: 409367773389354736
+    second: Ranger_Warg_noBG_15
+  - first:
+      213: 2377043034677546746
+    second: Ranger_Warg_noBG_16
+  - first:
+      213: 2783435343705043072
+    second: Ranger_Warg_noBG_17
+  - first:
+      213: -222903166965094191
+    second: Ranger_Warg_noBG_18
+  - first:
+      213: 2728133681066999830
+    second: Ranger_Warg_noBG_19
+  - first:
+      213: 7242958699197025093
+    second: Ranger_Warg_noBG_20
+  - first:
+      213: 1372650363882161516
+    second: Ranger_Warg_noBG_21
+  - first:
+      213: 7092207740781659028
+    second: Ranger_Warg_noBG_22
+  - first:
+      213: 2190528801253047957
+    second: Ranger_Warg_noBG_23
+  - first:
+      213: -7033029437554561067
+    second: Ranger_Warg_noBG_24
+  - first:
+      213: 7344347032387838725
+    second: Ranger_Warg_noBG_25
+  - first:
+      213: 156532764334174107
+    second: Ranger_Warg_noBG_26
+  - first:
+      213: -1043608910837904294
+    second: Ranger_Warg_noBG_27
+  - first:
+      213: 4513990156160540258
+    second: Ranger_Warg_noBG_28
+  - first:
+      213: -865918621400006231
+    second: Ranger_Warg_noBG_29
+  - first:
+      213: 1183776256760708012
+    second: Ranger_Warg_noBG_30
+  - first:
+      213: -5190440991807310773
+    second: Ranger_Warg_noBG_31
+  - first:
+      213: 6422501931778927428
+    second: Ranger_Warg_noBG_32
+  - first:
+      213: 9140632939086213790
+    second: Ranger_Warg_noBG_33
+  - first:
+      213: 8545617890616858183
+    second: Ranger_Warg_noBG_34
+  - first:
+      213: 4276684476847985209
+    second: Ranger_Warg_noBG_35
+  - first:
+      213: 4062250716615524926
+    second: Ranger_Warg_noBG_36
+  - first:
+      213: 6363225838771292829
+    second: Ranger_Warg_noBG_37
+  - first:
+      213: 7681485196934836105
+    second: Ranger_Warg_noBG_38
+  - first:
+      213: 8036428030356105657
+    second: Ranger_Warg_noBG_39
+  - first:
+      213: -5016446071330267291
+    second: Ranger_Warg_noBG_40
+  - first:
+      213: -797666454858387879
+    second: Ranger_Warg_noBG_41
+  - first:
+      213: 1226113838041784613
+    second: Ranger_Warg_noBG_42
+  - first:
+      213: -6251649872126780274
+    second: Ranger_Warg_noBG_43
+  - first:
+      213: -7923053571403426165
+    second: Ranger_Warg_noBG_44
+  - first:
+      213: 1384948573461437019
+    second: Ranger_Warg_noBG_45
+  - first:
+      213: 2218052260193084484
+    second: Ranger_Warg_noBG_46
+  - first:
+      213: 1433159782434432036
+    second: Ranger_Warg_noBG_47
+  - first:
+      213: 8548421137499109126
+    second: Ranger_Warg_noBG_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1314
+        width: 104
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f84eba50f337c10800000000000000
+      internalID: 2050051548974976927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1187
+        width: 123
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e9cee7e276f2050800000000000000
+      internalID: 5777950296335228493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1187
+        width: 121
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bf5d56e9a804b20800000000000000
+      internalID: 3116643355058371347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1184
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be53804815b79b70800000000000000
+      internalID: 8905785903914639033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1184
+        width: 111
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e05044fb760570800000000000000
+      internalID: 8432563641279111694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1186
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131b0e068f91e0590800000000000000
+      internalID: -7706193357816417999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_6
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1186
+        width: 121
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba8e3533dc9987e0800000000000000
+      internalID: -1762705348193514829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1051
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d245c9787fee99d0800000000000000
+      internalID: -2765509820440821034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1051
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fceb4efde87c110800000000000000
+      internalID: 1281149711276756800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1053
+        width: 123
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894598e1cd0fe0e0800000000000000
+      internalID: -2238555363297900158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_10
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1053
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f01b6c7415415990800000000000000
+      internalID: -7399056758503960335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1052
+        width: 123
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4cf663ba0e0e30800000000000000
+      internalID: 4471523245668715502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1051
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e3d939e4143ebc0800000000000000
+      internalID: -3755085858557051282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 829
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0424c801ebbe68250800000000000000
+      internalID: 5946699559543259712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 883
+        width: 127
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca583ef8002172f0800000000000000
+      internalID: -976964421165753651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 888
+        width: 127
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f67d5b22dd5ea500800000000000000
+      internalID: 409367773389354736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_16
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 891
+        width: 129
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe85c1cb04fcf020800000000000000
+      internalID: 2377043034677546746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_17
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 895
+        width: 132
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807ec4a2bfb0a620800000000000000
+      internalID: 2783435343705043072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 891
+        width: 127
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d86cb920c618ecf0800000000000000
+      internalID: -222903166965094191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_19
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 885
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61007cfe0274cd520800000000000000
+      internalID: 2728133681066999830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 762
+        width: 116
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bc674ef88248460800000000000000
+      internalID: 7242958699197025093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 758
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65c10cbb32ac0310800000000000000
+      internalID: 1372650363882161516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_22
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 760
+        width: 122
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49301963d559c6260800000000000000
+      internalID: 7092207740781659028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_23
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 762
+        width: 123
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e33fcb652566e10800000000000000
+      internalID: 2190528801253047957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_24
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 766
+        width: 122
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfe1b73df8a56e90800000000000000
+      internalID: -7033029437554561067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_25
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 764
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503eba4c6bc5ce560800000000000000
+      internalID: 7344347032387838725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 829
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f29d548bd1c2200800000000000000
+      internalID: 156532764334174107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 619
+        width: 122
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0311993b5481f0800000000000000
+      internalID: -1043608910837904294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_28
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 631
+        width: 114
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e1f81812ae4ae30800000000000000
+      internalID: 4513990156160540258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_29
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 624
+        width: 129
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a18e070a93abf3f0800000000000000
+      internalID: -865918621400006231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_30
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 624
+        width: 124
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab73cdcb3e9d6010800000000000000
+      internalID: 1183776256760708012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_31
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 631
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44f2b70b69d7f7b0800000000000000
+      internalID: -5190440991807310773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 500
+        width: 134
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b61f4aa7f412950800000000000000
+      internalID: 6422501931778927428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 496
+        width: 131
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92f77c9a3d0ade70800000000000000
+      internalID: 9140632939086213790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 490
+        width: 117
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746d074e132289670800000000000000
+      internalID: 8545617890616858183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 488
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93293f27fd5d95b30800000000000000
+      internalID: 4276684476847985209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_36
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 563
+        width: 99
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c1780183006830800000000000000
+      internalID: 4062250716615524926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_37
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 328
+        width: 131
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9acc81cf28be4850800000000000000
+      internalID: 6363225838771292829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_38
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 336
+        width: 124
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fe8be961e1a9a60800000000000000
+      internalID: 7681485196934836105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_39
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 319
+        width: 127
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b92e5cf6b0278f60800000000000000
+      internalID: 8036428030356105657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_40
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 320
+        width: 125
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f947b50e0026ab0800000000000000
+      internalID: -5016446071330267291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_41
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 336
+        width: 124
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eabe4e59e1ee4f0800000000000000
+      internalID: -797666454858387879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_42
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 126
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521ebaa1a08040110800000000000000
+      internalID: 1226113838041784613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_43
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 183
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c54cf509dad39a0800000000000000
+      internalID: -6251649872126780274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_44
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 178
+        width: 133
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86db1441c8ab0290800000000000000
+      internalID: -7923053571403426165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 177
+        width: 133
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a5a59c363583310800000000000000
+      internalID: 1384948573461437019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_46
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 247
+        width: 101
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444af0667ca18ce10800000000000000
+      internalID: 2218052260193084484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 829
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424616a9a3b93e310800000000000000
+      internalID: 1433159782434432036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ranger_Warg_noBG_48
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607331babb712a670800000000000000
+      internalID: 8548421137499109126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ranger_Warg_noBG_0: 2050051548974976927
+      Ranger_Warg_noBG_1: 5777950296335228493
+      Ranger_Warg_noBG_10: -7399056758503960335
+      Ranger_Warg_noBG_11: 4471523245668715502
+      Ranger_Warg_noBG_12: -3755085858557051282
+      Ranger_Warg_noBG_13: 5946699559543259712
+      Ranger_Warg_noBG_14: -976964421165753651
+      Ranger_Warg_noBG_15: 409367773389354736
+      Ranger_Warg_noBG_16: 2377043034677546746
+      Ranger_Warg_noBG_17: 2783435343705043072
+      Ranger_Warg_noBG_18: -222903166965094191
+      Ranger_Warg_noBG_19: 2728133681066999830
+      Ranger_Warg_noBG_2: 3116643355058371347
+      Ranger_Warg_noBG_20: 7242958699197025093
+      Ranger_Warg_noBG_21: 1372650363882161516
+      Ranger_Warg_noBG_22: 7092207740781659028
+      Ranger_Warg_noBG_23: 2190528801253047957
+      Ranger_Warg_noBG_24: -7033029437554561067
+      Ranger_Warg_noBG_25: 7344347032387838725
+      Ranger_Warg_noBG_26: 156532764334174107
+      Ranger_Warg_noBG_27: -1043608910837904294
+      Ranger_Warg_noBG_28: 4513990156160540258
+      Ranger_Warg_noBG_29: -865918621400006231
+      Ranger_Warg_noBG_3: 8905785903914639033
+      Ranger_Warg_noBG_30: 1183776256760708012
+      Ranger_Warg_noBG_31: -5190440991807310773
+      Ranger_Warg_noBG_32: 6422501931778927428
+      Ranger_Warg_noBG_33: 9140632939086213790
+      Ranger_Warg_noBG_34: 8545617890616858183
+      Ranger_Warg_noBG_35: 4276684476847985209
+      Ranger_Warg_noBG_36: 4062250716615524926
+      Ranger_Warg_noBG_37: 6363225838771292829
+      Ranger_Warg_noBG_38: 7681485196934836105
+      Ranger_Warg_noBG_39: 8036428030356105657
+      Ranger_Warg_noBG_4: 8432563641279111694
+      Ranger_Warg_noBG_40: -5016446071330267291
+      Ranger_Warg_noBG_41: -797666454858387879
+      Ranger_Warg_noBG_42: 1226113838041784613
+      Ranger_Warg_noBG_43: -6251649872126780274
+      Ranger_Warg_noBG_44: -7923053571403426165
+      Ranger_Warg_noBG_45: 1384948573461437019
+      Ranger_Warg_noBG_46: 2218052260193084484
+      Ranger_Warg_noBG_47: 1433159782434432036
+      Ranger_Warg_noBG_48: 8548421137499109126
+      Ranger_Warg_noBG_5: -7706193357816417999
+      Ranger_Warg_noBG_6: -1762705348193514829
+      Ranger_Warg_noBG_7: -2765509820440821034
+      Ranger_Warg_noBG_8: 1281149711276756800
+      Ranger_Warg_noBG_9: -2238555363297900158
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
