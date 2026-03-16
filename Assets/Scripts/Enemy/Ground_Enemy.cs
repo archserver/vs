@@ -1,5 +1,4 @@
 using UnityEngine;
-using UnityEngine.Windows;
 
 public class Ground_Enemy : MonoBehaviour
 {
@@ -13,6 +12,7 @@ public class Ground_Enemy : MonoBehaviour
     private Vector3 direction;
     [SerializeField] private float moveSpeed;
     [SerializeField] private GameObject destructionEffect;
+    private Transform _playerTransform;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     // Set variables to components
@@ -21,6 +21,7 @@ public class Ground_Enemy : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         //sr = GetComponent<SpriteRenderer>(); can be used for flying creatures
         animator = GetComponent<Animator>();
+        _playerTransform = PlayerController.PlayerInstance.transform;
     }
 
     // Update baseed on physics logic
@@ -42,7 +43,7 @@ public class Ground_Enemy : MonoBehaviour
         // notrmalize it so directional movement is not faster then streight movement
         if (PlayerController.PlayerInstance == null) return;
 
-        direction = (PlayerController.PlayerInstance.transform.position - transform.position).normalized;
+        direction = (_playerTransform.position - transform.position).normalized;
         rb.linearVelocity = new Vector2 (direction.x * moveSpeed, direction.y *moveSpeed);
         // set movement direction for sprite rendering
         animator.SetFloat("moveX", rb.linearVelocityX);

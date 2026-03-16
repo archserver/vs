@@ -11,6 +11,7 @@ public class FlyingEnemy : MonoBehaviour
     private Vector3 direction;
     [SerializeField] private float moveSpeed;
     [SerializeField] private GameObject destructionEffect;
+    private Transform _playerTransform;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     // Set variables to components
@@ -19,6 +20,7 @@ public class FlyingEnemy : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>(); //can be used for flying creatures
         animator = GetComponent<Animator>();
+        _playerTransform = PlayerController.PlayerInstance.transform;
     }
 
     // Update baseed on physics logic
@@ -39,7 +41,7 @@ public class FlyingEnemy : MonoBehaviour
         // if player is to right of monster, move monster to the right otherwise move left
         // if player is above the monster, move monster up otherwise move down
         // notrmalize it so directional movement is not faster then streight movement
-        direction = (PlayerController.PlayerInstance.transform.position - transform.position).normalized;
+        direction = (_playerTransform.position - transform.position).normalized;
         rb.linearVelocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed);
         // set movement direction for sprite rendering
         animator.SetFloat("moveX", rb.linearVelocityX);
