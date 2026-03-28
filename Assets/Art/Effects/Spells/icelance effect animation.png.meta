@@ -1,0 +1,1222 @@
+fileFormatVersion: 2
+guid: 67b3bd107546f6949abf9c6ee9393427
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4007623835568131482
+    second: icelance effect animation_0
+  - first:
+      213: -8791741123835049770
+    second: icelance effect animation_1
+  - first:
+      213: 8465740539640194610
+    second: icelance effect animation_2
+  - first:
+      213: -6558710889529440529
+    second: icelance effect animation_3
+  - first:
+      213: 8791120929773798955
+    second: icelance effect animation_4
+  - first:
+      213: 7821984898620411639
+    second: icelance effect animation_5
+  - first:
+      213: -1992211746110830080
+    second: icelance effect animation_6
+  - first:
+      213: 2010557845631876991
+    second: icelance effect animation_7
+  - first:
+      213: 1472646147310446052
+    second: icelance effect animation_8
+  - first:
+      213: -1493147170443058898
+    second: icelance effect animation_9
+  - first:
+      213: 5180258401079556448
+    second: icelance effect animation_10
+  - first:
+      213: -9093421077815957493
+    second: icelance effect animation_11
+  - first:
+      213: -8200673399566182559
+    second: icelance effect animation_12
+  - first:
+      213: -6944190633381355599
+    second: icelance effect animation_13
+  - first:
+      213: 7114464852026199894
+    second: icelance effect animation_14
+  - first:
+      213: 3728778206796594733
+    second: icelance effect animation_15
+  - first:
+      213: 4800730692826748947
+    second: icelance effect animation_16
+  - first:
+      213: 386875411730194981
+    second: icelance effect animation_17
+  - first:
+      213: 5539650193710994203
+    second: icelance effect animation_18
+  - first:
+      213: 3832492728980347477
+    second: icelance effect animation_19
+  - first:
+      213: 208665983643535410
+    second: icelance effect animation_20
+  - first:
+      213: -1932302985092358873
+    second: icelance effect animation_21
+  - first:
+      213: 7102401962190550754
+    second: icelance effect animation_22
+  - first:
+      213: 9144248094167597846
+    second: icelance effect animation_23
+  - first:
+      213: -3995636065044515987
+    second: icelance effect animation_24
+  - first:
+      213: 5262206957155584518
+    second: icelance effect animation_25
+  - first:
+      213: 1915098785776502154
+    second: icelance effect animation_26
+  - first:
+      213: 3539982254392249249
+    second: icelance effect animation_27
+  - first:
+      213: 6595037445447094194
+    second: icelance effect animation_28
+  - first:
+      213: -2894503634376409259
+    second: icelance effect animation_29
+  - first:
+      213: -2542169047178182380
+    second: icelance effect animation_30
+  - first:
+      213: 7176128028768463674
+    second: icelance effect animation_31
+  - first:
+      213: -7513775931082442751
+    second: icelance effect animation_32
+  - first:
+      213: -4997882659144589909
+    second: icelance effect animation_33
+  - first:
+      213: -6256836436810283832
+    second: icelance effect animation_34
+  - first:
+      213: 462983741151708150
+    second: icelance effect animation_35
+  - first:
+      213: 3544679813270935519
+    second: icelance effect animation_36
+  - first:
+      213: 7254565275813504188
+    second: icelance effect animation_37
+  - first:
+      213: 5963826189584867588
+    second: icelance effect animation_38
+  - first:
+      213: -2568855329484051406
+    second: icelance effect animation_39
+  - first:
+      213: 5071439660344680746
+    second: icelance effect animation_40
+  - first:
+      213: -6312255408773149121
+    second: icelance effect animation_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icelance effect animation_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 451
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b297da5f0268c0800000000000000
+      internalID: -4007623835568131482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 386
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d84e9c47067df580800000000000000
+      internalID: -8791741123835049770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 386
+        width: 160
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236a0e9da2a5c7570800000000000000
+      internalID: 8465740539640194610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 386
+        width: 102
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe68c1d0237caf4a0800000000000000
+      internalID: -6558710889529440529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 386
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b264ba488e5500a70800000000000000
+      internalID: 8791120929773798955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 194
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe4db892d54d8c60800000000000000
+      internalID: 7821984898620411639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 223
+        width: 159
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a04bbd8fd3a54e0800000000000000
+      internalID: -1992211746110830080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f334d45bfe6eb10800000000000000
+      internalID: 2010557845631876991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_8
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 187
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5694a5ed3ef6410800000000000000
+      internalID: 1472646147310446052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_9
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 195
+        width: 176
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21ac5c3f86474be0800000000000000
+      internalID: -1493147170443058898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 174
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697411d199f3e740800000000000000
+      internalID: 5180258401079556448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 166
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08eabf65bdadc180800000000000000
+      internalID: -9093421077815957493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 178
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167dcdbfdfa513e80800000000000000
+      internalID: -8200673399566182559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 169
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf95bc296741af90800000000000000
+      internalID: -6944190633381355599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_14
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 165
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f0600c618abb260800000000000000
+      internalID: 7114464852026199894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 142
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e345ee5084fb330800000000000000
+      internalID: 3728778206796594733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 164
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318d048312f9f9240800000000000000
+      internalID: 4800730692826748947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_17
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 11
+        width: 134
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522e28023257e5500800000000000000
+      internalID: 386875411730194981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_18
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 158
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b135118308ac0ec40800000000000000
+      internalID: 5539650193710994203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 167
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1423e4dfbf2530800000000000000
+      internalID: 3832492728980347477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 167
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238c7c74b9455e200800000000000000
+      internalID: 208665983643535410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_21
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 165
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d942f3ca41f25e0800000000000000
+      internalID: -1932302985092358873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_22
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 98
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b76854fcc09260800000000000000
+      internalID: 7102401962190550754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_23
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 151
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61307ee7135e6ee70800000000000000
+      internalID: 9144248094167597846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 93
+        width: 23
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63384b2b26ac88c0800000000000000
+      internalID: -3995636065044515987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_25
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 113
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a09dfd85d170940800000000000000
+      internalID: 5262206957155584518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 96
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a858df3f23cc39a10800000000000000
+      internalID: 1915098785776502154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_27
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab8c30da1b802130800000000000000
+      internalID: 3539982254392249249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_28
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 129
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf06485d97468b50800000000000000
+      internalID: 6595037445447094194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 117
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fbaefb748a4d7d0800000000000000
+      internalID: -2894503634376409259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_30
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 115
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41183f778b668bcd0800000000000000
+      internalID: -2542169047178182380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_31
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 111
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3be771eb6ab69360800000000000000
+      internalID: 7176128028768463674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_32
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 100
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10873f1b994b9b790800000000000000
+      internalID: -7513775931082442751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 77
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad1a909334f3aab0800000000000000
+      internalID: -4997882659144589909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c33e29604b29a0800000000000000
+      internalID: -6256836436810283832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 71
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f301247249dc6600800000000000000
+      internalID: 462983741151708150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_36
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 87
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd71388728b313130800000000000000
+      internalID: 3544679813270935519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_37
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 55
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb46fb89ea46da460800000000000000
+      internalID: 7254565275813504188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_38
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401a06c5254c3c250800000000000000
+      internalID: 5963826189584867588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_39
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 51
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cebbe20b7995cd0800000000000000
+      internalID: -2568855329484051406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 10
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a212cae508f516640800000000000000
+      internalID: 5071439660344680746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icelance effect animation_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ec984462d5668a0800000000000000
+      internalID: -6312255408773149121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      icelance effect animation_0: -4007623835568131482
+      icelance effect animation_1: -8791741123835049770
+      icelance effect animation_10: 5180258401079556448
+      icelance effect animation_11: -9093421077815957493
+      icelance effect animation_12: -8200673399566182559
+      icelance effect animation_13: -6944190633381355599
+      icelance effect animation_14: 7114464852026199894
+      icelance effect animation_15: 3728778206796594733
+      icelance effect animation_16: 4800730692826748947
+      icelance effect animation_17: 386875411730194981
+      icelance effect animation_18: 5539650193710994203
+      icelance effect animation_19: 3832492728980347477
+      icelance effect animation_2: 8465740539640194610
+      icelance effect animation_20: 208665983643535410
+      icelance effect animation_21: -1932302985092358873
+      icelance effect animation_22: 7102401962190550754
+      icelance effect animation_23: 9144248094167597846
+      icelance effect animation_24: -3995636065044515987
+      icelance effect animation_25: 5262206957155584518
+      icelance effect animation_26: 1915098785776502154
+      icelance effect animation_27: 3539982254392249249
+      icelance effect animation_28: 6595037445447094194
+      icelance effect animation_29: -2894503634376409259
+      icelance effect animation_3: -6558710889529440529
+      icelance effect animation_30: -2542169047178182380
+      icelance effect animation_31: 7176128028768463674
+      icelance effect animation_32: -7513775931082442751
+      icelance effect animation_33: -4997882659144589909
+      icelance effect animation_34: -6256836436810283832
+      icelance effect animation_35: 462983741151708150
+      icelance effect animation_36: 3544679813270935519
+      icelance effect animation_37: 7254565275813504188
+      icelance effect animation_38: 5963826189584867588
+      icelance effect animation_39: -2568855329484051406
+      icelance effect animation_4: 8791120929773798955
+      icelance effect animation_40: 5071439660344680746
+      icelance effect animation_41: -6312255408773149121
+      icelance effect animation_5: 7821984898620411639
+      icelance effect animation_6: -1992211746110830080
+      icelance effect animation_7: 2010557845631876991
+      icelance effect animation_8: 1472646147310446052
+      icelance effect animation_9: -1493147170443058898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

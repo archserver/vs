@@ -1,0 +1,1352 @@
+fileFormatVersion: 2
+guid: b828977920f09964cb1b22efc9bca357
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 789063004575273241
+    second: fireball animation 2_0
+  - first:
+      213: 399144476271402568
+    second: fireball animation 2_1
+  - first:
+      213: -9078198944337935307
+    second: fireball animation 2_2
+  - first:
+      213: -1684624696581819024
+    second: fireball animation 2_3
+  - first:
+      213: -141319461650406829
+    second: fireball animation 2_4
+  - first:
+      213: 8976411721147347291
+    second: fireball animation 2_5
+  - first:
+      213: 1733082429483306128
+    second: fireball animation 2_6
+  - first:
+      213: -5095022614921647120
+    second: fireball animation 2_7
+  - first:
+      213: 7484724550465134600
+    second: fireball animation 2_8
+  - first:
+      213: 4601705814814209608
+    second: fireball animation 2_9
+  - first:
+      213: 6638541417800194881
+    second: fireball animation 2_10
+  - first:
+      213: -8265756037167325585
+    second: fireball animation 2_11
+  - first:
+      213: 8749630995831022612
+    second: fireball animation 2_12
+  - first:
+      213: 8935556965311650583
+    second: fireball animation 2_13
+  - first:
+      213: -110069991882523204
+    second: fireball animation 2_14
+  - first:
+      213: -5919785347855066118
+    second: fireball animation 2_15
+  - first:
+      213: -1026992552024170736
+    second: fireball animation 2_16
+  - first:
+      213: 1435982127712129922
+    second: fireball animation 2_17
+  - first:
+      213: 8007333414954818028
+    second: fireball animation 2_18
+  - first:
+      213: 1710075551957554150
+    second: fireball animation 2_19
+  - first:
+      213: -2151726210934480044
+    second: fireball animation 2_20
+  - first:
+      213: 3064733734316309356
+    second: fireball animation 2_21
+  - first:
+      213: 3444431018978191959
+    second: fireball animation 2_22
+  - first:
+      213: 4895990122942075719
+    second: fireball animation 2_23
+  - first:
+      213: 2752259328965646651
+    second: fireball animation 2_24
+  - first:
+      213: 603110614555862927
+    second: fireball animation 2_25
+  - first:
+      213: -5983133320899738191
+    second: fireball animation 2_26
+  - first:
+      213: 805770962555134557
+    second: fireball animation 2_27
+  - first:
+      213: 8148443104242059439
+    second: fireball animation 2_28
+  - first:
+      213: -4625798718742133739
+    second: fireball animation 2_29
+  - first:
+      213: -1006948073712962808
+    second: fireball animation 2_30
+  - first:
+      213: -6015437329976855371
+    second: fireball animation 2_31
+  - first:
+      213: -5967190217612969487
+    second: fireball animation 2_32
+  - first:
+      213: -5132849103319919750
+    second: fireball animation 2_33
+  - first:
+      213: 2238274307860814477
+    second: fireball animation 2_34
+  - first:
+      213: 1394558271558804421
+    second: fireball animation 2_35
+  - first:
+      213: -149821936033988495
+    second: fireball animation 2_36
+  - first:
+      213: 1790688261920451670
+    second: fireball animation 2_37
+  - first:
+      213: -6673426371957073457
+    second: fireball animation 2_38
+  - first:
+      213: 1766047501308577165
+    second: fireball animation 2_39
+  - first:
+      213: -8065393571054526126
+    second: fireball animation 2_40
+  - first:
+      213: 4103301359782432926
+    second: fireball animation 2_41
+  - first:
+      213: 2875124566539753519
+    second: fireball animation 2_42
+  - first:
+      213: -5242781216010945595
+    second: fireball animation 2_43
+  - first:
+      213: 1792409414853772553
+    second: fireball animation 2_44
+  - first:
+      213: 4187425561846145304
+    second: fireball animation 2_45
+  - first:
+      213: -6647141664072557933
+    second: fireball animation 2_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fireball animation 2_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 623
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9119c1d3f9053fa00800000000000000
+      internalID: 789063004575273241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 604
+        width: 109
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e573259cb0a8500800000000000000
+      internalID: 399144476271402568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 587
+        width: 122
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53449629822c30280800000000000000
+      internalID: -9078198944337935307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 581
+        width: 136
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075f36493c20f98e0800000000000000
+      internalID: -1684624696581819024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 577
+        width: 155
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3526a78c2bee90ef0800000000000000
+      internalID: -141319461650406829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 165
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51f3acb6ee929c70800000000000000
+      internalID: 8976411721147347291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 383
+        width: 174
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cc2df89452d0810800000000000000
+      internalID: 1733082429483306128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 383
+        width: 181
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb63032de7da49b0800000000000000
+      internalID: -5095022614921647120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 383
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800ae18a2551fd760800000000000000
+      internalID: 7484724550465134600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 421
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846b9d4ce0b8cdf30800000000000000
+      internalID: 4601705814814209608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_10
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 383
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bd2ba3f36d02c50800000000000000
+      internalID: 6638541417800194881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ed9949da22a4d80800000000000000
+      internalID: -8265756037167325585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 191
+        width: 186
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414614e780fec6970800000000000000
+      internalID: 8749630995831022612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 227
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b1ba3a7b9710c70800000000000000
+      internalID: 8935556965311650583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 187
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd7961fce3f87ef0800000000000000
+      internalID: -110069991882523204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_15
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 191
+        width: 188
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb598a2792b8dda0800000000000000
+      internalID: -5919785347855066118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 191
+        width: 189
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f90a517b36fb1f0800000000000000
+      internalID: -1026992552024170736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 203
+        width: 188
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28357121322ade310800000000000000
+      internalID: 1435982127712129922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 11
+        width: 183
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce95f74f053cf1f60800000000000000
+      internalID: 8007333414954818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 244
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3928577a86bb710800000000000000
+      internalID: 1710075551957554150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_20
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 129
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4536a5759688322e0800000000000000
+      internalID: -2151726210934480044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 167
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b741df71f188a20800000000000000
+      internalID: 3064733734316309356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 155
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a288b23c31dcf20800000000000000
+      internalID: 3444431018978191959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_23
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 175
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74398c5a31d02f340800000000000000
+      internalID: 4895990122942075719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 130
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3990c0174df13620800000000000000
+      internalID: 2752259328965646651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 134
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87aed498edae5800800000000000000
+      internalID: 603110614555862927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_26
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 168
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5c7f3d1f3a7fca0800000000000000
+      internalID: -5983133320899738191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 156
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d526c69db6cae2b00800000000000000
+      internalID: 805770962555134557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_28
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa844dcb4d5151170800000000000000
+      internalID: 8148443104242059439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_29
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 127
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5140be6e29cddcfb0800000000000000
+      internalID: -4625798718742133739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_30
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803331fdf0a9602f0800000000000000
+      internalID: -1006948073712962808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_31
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 110
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4fa1a9e9fd48ca0800000000000000
+      internalID: -6015437329976855371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_32
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 64
+        width: 29
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f93ef3dc18403da0800000000000000
+      internalID: -5967190217612969487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_33
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 135
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a731fee7fe474c8b0800000000000000
+      internalID: -5132849103319919750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 158
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a5de5cf92ff0f10800000000000000
+      internalID: 2238274307860814477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_35
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 178
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c368dafb577a5310800000000000000
+      internalID: 1394558271558804421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_36
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 111
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17002233eb9bbedf0800000000000000
+      internalID: -149821936033988495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_37
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 64
+        width: 46
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cea3b9c7dc9d810800000000000000
+      internalID: 1790688261920451670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 171
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc956c0721a3363a0800000000000000
+      internalID: -6673426371957073457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_39
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 111
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85c6f378d2428810800000000000000
+      internalID: 1766047501308577165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25163978747f11090800000000000000
+      internalID: -8065393571054526126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_41
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 18
+        width: 20
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909534b8dad1f830800000000000000
+      internalID: 4103301359782432926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_42
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28d9996f8e76e720800000000000000
+      internalID: 2875124566539753519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_43
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 18
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbb390f246ed37b0800000000000000
+      internalID: -5242781216010945595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_44
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 38
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905cc60cddaefd810800000000000000
+      internalID: 1792409414853772553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 26
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811ea31dc59bc1a30800000000000000
+      internalID: 4187425561846145304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fireball animation 2_46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a9145efdb90c3a0800000000000000
+      internalID: -6647141664072557933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fireball animation 2_0: 789063004575273241
+      fireball animation 2_1: 399144476271402568
+      fireball animation 2_10: 6638541417800194881
+      fireball animation 2_11: -8265756037167325585
+      fireball animation 2_12: 8749630995831022612
+      fireball animation 2_13: 8935556965311650583
+      fireball animation 2_14: -110069991882523204
+      fireball animation 2_15: -5919785347855066118
+      fireball animation 2_16: -1026992552024170736
+      fireball animation 2_17: 1435982127712129922
+      fireball animation 2_18: 8007333414954818028
+      fireball animation 2_19: 1710075551957554150
+      fireball animation 2_2: -9078198944337935307
+      fireball animation 2_20: -2151726210934480044
+      fireball animation 2_21: 3064733734316309356
+      fireball animation 2_22: 3444431018978191959
+      fireball animation 2_23: 4895990122942075719
+      fireball animation 2_24: 2752259328965646651
+      fireball animation 2_25: 603110614555862927
+      fireball animation 2_26: -5983133320899738191
+      fireball animation 2_27: 805770962555134557
+      fireball animation 2_28: 8148443104242059439
+      fireball animation 2_29: -4625798718742133739
+      fireball animation 2_3: -1684624696581819024
+      fireball animation 2_30: -1006948073712962808
+      fireball animation 2_31: -6015437329976855371
+      fireball animation 2_32: -5967190217612969487
+      fireball animation 2_33: -5132849103319919750
+      fireball animation 2_34: 2238274307860814477
+      fireball animation 2_35: 1394558271558804421
+      fireball animation 2_36: -149821936033988495
+      fireball animation 2_37: 1790688261920451670
+      fireball animation 2_38: -6673426371957073457
+      fireball animation 2_39: 1766047501308577165
+      fireball animation 2_4: -141319461650406829
+      fireball animation 2_40: -8065393571054526126
+      fireball animation 2_41: 4103301359782432926
+      fireball animation 2_42: 2875124566539753519
+      fireball animation 2_43: -5242781216010945595
+      fireball animation 2_44: 1792409414853772553
+      fireball animation 2_45: 4187425561846145304
+      fireball animation 2_46: -6647141664072557933
+      fireball animation 2_5: 8976411721147347291
+      fireball animation 2_6: 1733082429483306128
+      fireball animation 2_7: -5095022614921647120
+      fireball animation 2_8: 7484724550465134600
+      fireball animation 2_9: 4601705814814209608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

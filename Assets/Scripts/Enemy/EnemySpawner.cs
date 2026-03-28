@@ -1,54 +1,92 @@
-using UnityEngine;
 using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Tilemaps;
 
+// Spawns enemies in waves at valid tilemap positions outside the camera view
 public class EnemySpawner : MonoBehaviour
 {
-    [System.Serializable] 
+    // defines a single wave of enemies to spawn
+    [System.Serializable]
     public class Wave
     {
-        // Enemy to spawn
-        public GameObject enemyPrefab;
-        // Spawn interval for enemy
-        public float spawnInterval;
-        // Number of enemies per wave
-        public int enemiesPerWave;
+        public GameObject enemyPrefab;      // which enemy to spawn
+        public float spawnInterval;         // seconds between each spawn in this wave
+        public int enemiesPerWave;          // how many enemies before moving to the next wave
     }
 
-    // List of enemies to spawn
-    public List<Wave> waves;
-    //  wave number we are on
-    public int waveNumber;
-    // Count up timer
-    public float spawnTimer;
-    // Count of spawned enemies for wave
-    private int enemiesSpawned;
-       
-    // Update is called once per frame
+    [SerializeField] private Tilemap tilemap;               // the tilemap to scan for spawn locations
+    [SerializeField] private List<TileBase> spawnTiles;     // only spawn on these tiles
+    private List<Vector3> _validSpawnPositions = new List<Vector3>(); // list of valid world positions to spawn at
+
+    public List<Wave> waves;            // a list of waves configured in the Inspector
+    public int waveNumber;              // which wave is currently active
+    public float spawnTimer;            // counts up to the next spawn
+    private int enemiesSpawned;         // how many enemies have spawned in the current wave
+
+    // scan the tilemap at startup and collect valid spawn positions
+    void Start()
+    {
+        foreach (var pos in tilemap.cellBounds.allPositionsWithin)
+        {
+            if (spawnTiles.Contains(tilemap.GetTile(pos)))
+                _validSpawnPositions.Add(tilemap.CellToWorld(pos) + tilemap.cellSize / 2);
+        }
+    }
+
     void Update()
     {
-        // Increment the spawn Timer
+        // stop spawning if the player is dead
+        if (!PlayerController.PlayerInstance.isActiveAndEnabled) return;
+
+        // count up and spawn when the interval is reached
         spawnTimer += Time.deltaTime;
-        // if the spawn timer is greater then the spawn interval for the wave then reset the spawn timer and spawn an enemy 
         if (spawnTimer > waves[waveNumber].spawnInterval)
         {
             spawnTimer = 0;
             SpawnEnemy();
         }
-        // if the number of enemies spawned is greater then the wave number of enemies then reset enemies spawned and increas the wave
+
+        // move to the next wave once enough enemies have spawned
         if (enemiesSpawned >= waves[waveNumber].enemiesPerWave)
         {
             enemiesSpawned = 0;
+
+            // speed up spawning slightly each wave, down to a minimum of 0.3s
+            if (waves[waveNumber].spawnInterval >= 0.3f)
+                waves[waveNumber].spawnInterval *= 0.95f;
+
             waveNumber++;
         }
-        // if the wave is more then the max number of waves reset the wave number to 0 
+
+        // loop back to the first wave after the last wave is complete
         if (waveNumber >= waves.Count)
             waveNumber = 0;
     }
 
-    //spawn a creature and increase spawn count
+    // pick a random valid position outside the camera view and spawn an enemy
     private void SpawnEnemy()
     {
-        Instantiate(waves[waveNumber].enemyPrefab, transform.position, transform.rotation);
-        enemiesSpawned++;
+        if (_validSpawnPositions.Count == 0) return;
+
+        // try up to 3 times to find a position not visible to the camera
+        int maxAttempts = 3;
+        for (int i = 0; i < maxAttempts; i++)
+        {
+            Vector2 spawnPos = _validSpawnPositions[Random.Range(0, _validSpawnPositions.Count)];
+            if (!IsVisibleToCamera(spawnPos) || i == maxAttempts-1) // if last loop time spawn enemy 
+            {
+                Instantiate(waves[waveNumber].enemyPrefab, spawnPos, transform.rotation, transform);
+                enemiesSpawned++;
+                return;
+            }
+        }
+    }
+
+    // returns true if the world position is within the camera's visible area
+    private bool IsVisibleToCamera(Vector3 worldPos)
+    {
+        Vector3 viewportPos = Camera.main.WorldToViewportPoint(worldPos);
+        return viewportPos.x > -0.05f && viewportPos.x < 1.05f &&
+               viewportPos.y > -0.05f && viewportPos.y < 1.05f;
     }
 }

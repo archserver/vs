@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: a45ad80cd46782f48835d3e57ef0c376
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7705060656515560999
+    second: 3d eye effect animation_0
+  - first:
+      213: -6966216118088367074
+    second: 3d eye effect animation_1
+  - first:
+      213: 6548461498648518243
+    second: 3d eye effect animation_2
+  - first:
+      213: -2223040371480601707
+    second: 3d eye effect animation_3
+  - first:
+      213: -5020367489855554871
+    second: 3d eye effect animation_4
+  - first:
+      213: -7845918607775003149
+    second: 3d eye effect animation_5
+  - first:
+      213: 1355998461651826233
+    second: 3d eye effect animation_6
+  - first:
+      213: 7550462745583808809
+    second: 3d eye effect animation_7
+  - first:
+      213: 2123254179758749703
+    second: 3d eye effect animation_8
+  - first:
+      213: -5069279940297872441
+    second: 3d eye effect animation_9
+  - first:
+      213: 2710040523926830228
+    second: 3d eye effect animation_10
+  - first:
+      213: -4404342808572201284
+    second: 3d eye effect animation_11
+  - first:
+      213: 1817910467477962381
+    second: 3d eye effect animation_12
+  - first:
+      213: -2851257719355762859
+    second: 3d eye effect animation_13
+  - first:
+      213: 8853794077412240519
+    second: 3d eye effect animation_14
+  - first:
+      213: 6561908828547406735
+    second: 3d eye effect animation_15
+  - first:
+      213: -3229741659785230978
+    second: 3d eye effect animation_16
+  - first:
+      213: 9124766917827110040
+    second: 3d eye effect animation_17
+  - first:
+      213: 5011799997222916000
+    second: 3d eye effect animation_18
+  - first:
+      213: -7515537376260414207
+    second: 3d eye effect animation_19
+  - first:
+      213: -8104136454850759627
+    second: 3d eye effect animation_20
+  - first:
+      213: -7333466962179144284
+    second: 3d eye effect animation_21
+  - first:
+      213: -2195512891177407818
+    second: 3d eye effect animation_22
+  - first:
+      213: -8718210477758577048
+    second: 3d eye effect animation_23
+  - first:
+      213: -9122037779127045271
+    second: 3d eye effect animation_24
+  - first:
+      213: 8725608760857279356
+    second: 3d eye effect animation_25
+  - first:
+      213: -15323537190776527
+    second: 3d eye effect animation_26
+  - first:
+      213: -1467649521701757778
+    second: 3d eye effect animation_27
+  - first:
+      213: -1981809001904658129
+    second: 3d eye effect animation_28
+  - first:
+      213: -2043390268990447114
+    second: 3d eye effect animation_29
+  - first:
+      213: 8236933417113800243
+    second: 3d eye effect animation_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 3d eye effect animation_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 427
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d94d83f720221590800000000000000
+      internalID: -7705060656515560999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 427
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e140eb46957035f90800000000000000
+      internalID: -6966216118088367074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_2
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 427
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e544ca90fc0ea50800000000000000
+      internalID: 6548461498648518243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 427
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bdb807f8c2621e0800000000000000
+      internalID: -2223040371480601707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 423
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7d35fd52145ab0800000000000000
+      internalID: -5020367489855554871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 419
+        width: 112
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd81fe7892bd1390800000000000000
+      internalID: -7845918607775003149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 413
+        width: 119
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936bbbe9a6971d210800000000000000
+      internalID: 1355998461651826233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_7
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 427
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921f750fcd1a8c860800000000000000
+      internalID: 7550462745583808809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 293
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70832605d60577d10800000000000000
+      internalID: 2123254179758749703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 293
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb2883a0cc46a9b0800000000000000
+      internalID: -5069279940297872441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_10
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 293
+        width: 92
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c72938f7ffb9520800000000000000
+      internalID: 2710040523926830228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 293
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6f1020d81a0e2c0800000000000000
+      internalID: -4404342808572201284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 291
+        width: 103
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8efc7f30f38a3910800000000000000
+      internalID: 1817910467477962381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_13
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 286
+        width: 108
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55795baf53c4e68d0800000000000000
+      internalID: -2851257719355762859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 281
+        width: 117
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c2d92ddcefeda70800000000000000
+      internalID: 8853794077412240519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 295
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b51162055901b50800000000000000
+      internalID: 6561908828547406735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7588348217ad23d0800000000000000
+      internalID: -3229741659785230978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 155
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894225baa2fa1ae70800000000000000
+      internalID: 9124766917827110040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 160
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af86c73b8d7d8540800000000000000
+      internalID: 5011799997222916000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_19
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 160
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105a3d7439273b790800000000000000
+      internalID: -7515537376260414207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 160
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534b355f4d2588f80800000000000000
+      internalID: -8104136454850759627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 160
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5cf3bf6aa4a3a90800000000000000
+      internalID: -7333466962179144284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_22
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 161
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba649568a8f781e0800000000000000
+      internalID: -2195512891177407818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_23
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 174
+        width: 65
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8668c14f2c1b20780800000000000000
+      internalID: -8718210477758577048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_24
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 27
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963707378f2086180800000000000000
+      internalID: -9122037779127045271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 22
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b3fef00f6971970800000000000000
+      internalID: 8725608760857279356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 27
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1319a09f25f89cff0800000000000000
+      internalID: -15323537190776527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_27
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 27
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacd134398cd1abe0800000000000000
+      internalID: -1467649521701757778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 27
+        width: 103
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f292dcc76333f74e0800000000000000
+      internalID: -1981809001904658129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_29
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 27
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1a55f606b64a3e0800000000000000
+      internalID: -2043390268990447114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3d eye effect animation_30
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 27
+        width: 176
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ecc9d3d477f4270800000000000000
+      internalID: 8236933417113800243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      3d eye effect animation_0: -7705060656515560999
+      3d eye effect animation_1: -6966216118088367074
+      3d eye effect animation_10: 2710040523926830228
+      3d eye effect animation_11: -4404342808572201284
+      3d eye effect animation_12: 1817910467477962381
+      3d eye effect animation_13: -2851257719355762859
+      3d eye effect animation_14: 8853794077412240519
+      3d eye effect animation_15: 6561908828547406735
+      3d eye effect animation_16: -3229741659785230978
+      3d eye effect animation_17: 9124766917827110040
+      3d eye effect animation_18: 5011799997222916000
+      3d eye effect animation_19: -7515537376260414207
+      3d eye effect animation_2: 6548461498648518243
+      3d eye effect animation_20: -8104136454850759627
+      3d eye effect animation_21: -7333466962179144284
+      3d eye effect animation_22: -2195512891177407818
+      3d eye effect animation_23: -8718210477758577048
+      3d eye effect animation_24: -9122037779127045271
+      3d eye effect animation_25: 8725608760857279356
+      3d eye effect animation_26: -15323537190776527
+      3d eye effect animation_27: -1467649521701757778
+      3d eye effect animation_28: -1981809001904658129
+      3d eye effect animation_29: -2043390268990447114
+      3d eye effect animation_3: -2223040371480601707
+      3d eye effect animation_30: 8236933417113800243
+      3d eye effect animation_4: -5020367489855554871
+      3d eye effect animation_5: -7845918607775003149
+      3d eye effect animation_6: 1355998461651826233
+      3d eye effect animation_7: 7550462745583808809
+      3d eye effect animation_8: 2123254179758749703
+      3d eye effect animation_9: -5069279940297872441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

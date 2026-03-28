@@ -45,11 +45,18 @@ TagManager:
   - name: Background
     uniqueID: 404033539
     locked: 0
+  - name: Spells
+    uniqueID: 3939242237
+    locked: 0
   - name: Objects
     uniqueID: 4193443341
     locked: 0
   - name: Foreground
     uniqueID: 2424644067
     locked: 0
+  - name: UI
+    uniqueID: 3229807529
+    locked: 0
   m_RenderingLayers:
   - Default
+  m_MigratedRenderPipelines: []

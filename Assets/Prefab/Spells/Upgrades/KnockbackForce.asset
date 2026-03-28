@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a29571e38a53854190ae64ce5c29357, type: 3}
+  m_Name: KnockbackForce
+  m_EditorClassIdentifier: Assembly-CSharp::SpellUpgrade
+  upgradeName: Force
+  description: Increase push force on creatures by .2
+  icon: {fileID: -5496337049785157006, guid: 3d554de62ec87a94e9f23b537ee597f0, type: 3}
+  property: 5
+  upgradeAmount: 0.2

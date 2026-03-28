@@ -1,59 +1,99 @@
 using UnityEngine;
 
+// Controls movement, damage, and death for flying enemies
 public class FlyingEnemy : MonoBehaviour
 {
-    // define variables for components
-    //field for speed
-    // field for destruction Animation
-    private SpriteRenderer sr; //can be used for flying creatures
+    private SpriteRenderer sr;              // used to flip sprite to face the player
     private Animator animator;
     private Rigidbody2D rb;
-    private Vector3 direction;
-    [SerializeField] private float moveSpeed;
-    [SerializeField] private GameObject destructionEffect;
-    private Transform _playerTransform;
+    private Vector3 direction;              // direction toward the player
+    [SerializeField] private float moveSpeed;           // how fast the enemy moves
+    [SerializeField] private float damage;              // damage dealt to the player on contact
+    [SerializeField] private GameObject destructionEffect;  // effect played when enemy dies
+    [SerializeField] private float health;              // how much health the enemy has
+    [SerializeField] private int experienceValue;       // XP given to player on kill
+    private Transform _playerTransform;                 // cached player position for movement
+    public float knockbackForce = 0f;                   // set by spells to slow or push back enemy
+    [SerializeField] private float damageInterval = 1f; // seconds between each damage hit
+    private float damageCooldown = 0f;                  // counts down to next allowed hit
+    [SerializeField] private AudioSource attackSound;   // played when this creature hits the player
+    [SerializeField] private AudioSource deathSound;    // played when this creature dies
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    // Set variables to components
+    // grab required components on startup
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        sr = GetComponent<SpriteRenderer>(); //can be used for flying creatures
+        sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
         _playerTransform = PlayerController.PlayerInstance.transform;
     }
 
-    // Update baseed on physics logic
+    // count down the damage cooldown each frame
+    void Update()
+    {
+        if (damageCooldown > 0f)
+            damageCooldown -= Time.deltaTime;
+    }
+
+    // physics-based movement runs on a fixed timestep for consistent speed
     void FixedUpdate()
     {
-        if (PlayerController.PlayerInstance == null) return;
-        // Make the enemy face the player by flipping sprite can be used for flying creatures
-        if (PlayerController.PlayerInstance.transform.position.x > transform.position.x)
-          {
-              sr.flipX = true;
-          }
-          else
-          {
-              sr.flipX = false;
-          }
+        // wait for player to be ready before moving
+        if (_playerTransform == null)
+        {
+            if (PlayerController.PlayerInstance != null)
+                _playerTransform = PlayerController.PlayerInstance.transform;
+        }
 
-        // move towards the player
-        // if player is to right of monster, move monster to the right otherwise move left
-        // if player is above the monster, move monster up otherwise move down
-        // notrmalize it so directional movement is not faster then streight movement
+        // stop moving if player is not yet available or is dead
+        if (_playerTransform == null || !PlayerController.PlayerInstance.gameObject.activeSelf)
+        {
+            rb.linearVelocity = Vector2.zero;
+            return;
+        }
+
+        // flip sprite to face the player based on horizontal position
+        sr.flipX = _playerTransform.position.x > transform.position.x;
+
+        // move toward the player, subtracting any knockback force from spells
         direction = (_playerTransform.position - transform.position).normalized;
-        rb.linearVelocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed);
-        // set movement direction for sprite rendering
+        Vector2 pushBack = new Vector2(direction.x, direction.y) * knockbackForce;
+        rb.linearVelocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed) - pushBack;
+
+        // update animator so the correct walk direction sprite plays
         animator.SetFloat("moveX", rb.linearVelocityX);
         animator.SetFloat("moveY", rb.linearVelocityY);
     }
 
-    // create destruction effect and destroy the crreature
+    // deal damage to the player once per damageInterval while in contact
     private void OnCollisionStay2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Player") && damageCooldown <= 0f)
         {
+            if (attackSound != null) AudioController.ACInstance.PlaySound(attackSound);
+            PlayerController.PlayerInstance.DamagePlayer(damage);
+            damageCooldown = damageInterval;
+        }
+    }
+
+    // called by spells — reduce health, show damage number, return vampiric health, destroy if dead
+    public void TakeDamage(float damageTaken, float vampiricPercent = 0f)
+    {
+        health -= damageTaken;
+        GameStats.GSInstance.totalDamageDone += damageTaken;
+        DamageNumberController.DNCInstance.CreateNumber(damageTaken, transform.position);
+
+        // if the spell has a vampiric effect, return a portion of the damage as health to the player
+        if (vampiricPercent > 0f)
+            PlayerController.PlayerInstance.HealPlayer(damageTaken * vampiricPercent);
+
+        if (health <= 0)
+        {
+            // play death effect, give player XP, remove enemy from scene
             Instantiate(destructionEffect, transform.position, transform.rotation);
+            PlayerController.PlayerInstance.GainExperience(experienceValue);
+            GameStats.GSInstance.wyvernsKilled++;
+            if (deathSound != null) AudioController.ACInstance.PlayModifiedSound(deathSound);
             Destroy(gameObject);
         }
     }

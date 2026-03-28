@@ -1,0 +1,12 @@
+# ninja log v5
+140	1255	7962857292904920	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	56cc90148862c9b9
+1258	3328	7962857311124748	C:/Users/Bryon Chase/vampire-survival/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/535z1w6b/obj/arm64-v8a/libswappywrapper.so	c75e9a79e0780153
+97	3828	7962857320274908	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	65d4f13d26b873ce
+38	3904	7962857320014316	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	618161ea2c39a67d
+114	3915	7962857321170295	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d1c05dff6c02a889
+1	3935	7962857321282134	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	e17f106aabac8728
+10	4006	7962857322091658	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	149b17a9ec43694b
+130	4506	7962857327087830	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	571d67435b15b895
+27	4536	7962857327225650	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c1fe1742f88c6216
+17	4660	7962857328776731	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	c0c6abb35a2c4b86
+4660	4840	7962857330623392	C:/Users/Bryon Chase/vampire-survival/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/535z1w6b/obj/arm64-v8a/libgame.so	f2e90a01756254c6

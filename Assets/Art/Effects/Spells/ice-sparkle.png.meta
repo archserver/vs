@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 79bc57f2a47c692448036340b4dbab16
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2836759890945359365
+    second: ice-sparkle_0
+  - first:
+      213: -6672127823386475101
+    second: ice-sparkle_1
+  - first:
+      213: -1443418516915390151
+    second: ice-sparkle_2
+  - first:
+      213: 579665035821990217
+    second: ice-sparkle_3
+  - first:
+      213: 7948787577401618267
+    second: ice-sparkle_4
+  - first:
+      213: -5544319737504666801
+    second: ice-sparkle_5
+  - first:
+      213: 7020175380705832279
+    second: ice-sparkle_6
+  - first:
+      213: -6254348505342637250
+    second: ice-sparkle_7
+  - first:
+      213: 3740637045353198807
+    second: ice-sparkle_8
+  - first:
+      213: -6655816617914510190
+    second: ice-sparkle_9
+  - first:
+      213: -4559842627134854002
+    second: ice-sparkle_10
+  - first:
+      213: -3328075588247878573
+    second: ice-sparkle_11
+  - first:
+      213: -5346318088337986192
+    second: ice-sparkle_12
+  - first:
+      213: -3128155836483477536
+    second: ice-sparkle_13
+  - first:
+      213: -5401097087159707869
+    second: ice-sparkle_14
+  - first:
+      213: -6122996169775574382
+    second: ice-sparkle_15
+  - first:
+      213: 1093979434241825647
+    second: ice-sparkle_16
+  - first:
+      213: 1892825733739503387
+    second: ice-sparkle_17
+  - first:
+      213: -3873971864359377730
+    second: ice-sparkle_18
+  - first:
+      213: -4567854980780300200
+    second: ice-sparkle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice-sparkle_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 699
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ebfdc47123e5720800000000000000
+      internalID: 2836759890945359365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 665
+        width: 120
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a58c075817d763a0800000000000000
+      internalID: -6672127823386475101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_2
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 640
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9397905a182f7fbe0800000000000000
+      internalID: -1443418516915390151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 646
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94142e467426b0800800000000000000
+      internalID: 579665035821990217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 609
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5faf0aef24cf4e60800000000000000
+      internalID: 7948787577401618267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 617
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4be8d4e29e9e03b0800000000000000
+      internalID: -5544319737504666801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 442
+        width: 163
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de9e3705cac6160800000000000000
+      internalID: 7020175380705832279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 445
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8e8ddb271439a0800000000000000
+      internalID: -6254348505342637250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 592
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4b1f1f29969e330800000000000000
+      internalID: 3740637045353198807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 443
+        width: 161
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294501fcc0ac1a3a0800000000000000
+      internalID: -6655816617914510190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_10
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 440
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c61f92a4f28b0c0800000000000000
+      internalID: -4559842627134854002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 562
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35406d8a2ec40d1d0800000000000000
+      internalID: -3328075588247878573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 232
+        width: 171
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d6e5056001ec5b0800000000000000
+      internalID: -5346318088337986192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_13
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 230
+        width: 175
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef565427de8694d0800000000000000
+      internalID: -3128155836483477536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_14
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 228
+        width: 179
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327d272c0d27b05b0800000000000000
+      internalID: -5401097087159707869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 222
+        width: 179
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2921373bc6fb60ba0800000000000000
+      internalID: -6122996169775574382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 178
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b1191df789e2f00800000000000000
+      internalID: 1093979434241825647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_17
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 28
+        width: 165
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1fd249e9faa44a10800000000000000
+      internalID: 1892825733739503387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 31
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb460035d13ec3ac0800000000000000
+      internalID: -3873971864359377730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice-sparkle_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8586715b818bb90c0800000000000000
+      internalID: -4567854980780300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ice-sparkle_0: 2836759890945359365
+      ice-sparkle_1: -6672127823386475101
+      ice-sparkle_10: -4559842627134854002
+      ice-sparkle_11: -3328075588247878573
+      ice-sparkle_12: -5346318088337986192
+      ice-sparkle_13: -3128155836483477536
+      ice-sparkle_14: -5401097087159707869
+      ice-sparkle_15: -6122996169775574382
+      ice-sparkle_16: 1093979434241825647
+      ice-sparkle_17: 1892825733739503387
+      ice-sparkle_18: -3873971864359377730
+      ice-sparkle_19: -4567854980780300200
+      ice-sparkle_2: -1443418516915390151
+      ice-sparkle_3: 579665035821990217
+      ice-sparkle_4: 7948787577401618267
+      ice-sparkle_5: -5544319737504666801
+      ice-sparkle_6: 7020175380705832279
+      ice-sparkle_7: -6254348505342637250
+      ice-sparkle_8: 3740637045353198807
+      ice-sparkle_9: -6655816617914510190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
