@@ -20,8 +20,11 @@ Building to Samsung Ultra S25
 {List of websites that I found helpful in this project}
 
 - [Web Site Unity, Youtube, Open Game Art]
-  Unity Commands and coding
-  https://docs.unity3d.com/6000.1/Documentation/Manual/Unity2D.html
+  Unity Commands, coding and debugging
+  https://docs.unity3d.com/6000.3/Documentation/Manual/android-debugging-on-an-android-device.html
+  https://developer.android.com/studio/run/device#setting-up
+  https://discussions.unity.com/t/incorrect-because-you-are-not-a-member-of-this-project-this-build-will-not-access-unity-services/1670958
+  
   Device Screen Scaling
   https://www.youtube.com/watch?v=KxwxZea0KAg
   Canvas Ancors
