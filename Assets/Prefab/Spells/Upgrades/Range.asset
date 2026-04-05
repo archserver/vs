@@ -16,4 +16,4 @@ MonoBehaviour:
   description: Increase Distance of affect by .2 units
   icon: {fileID: -8257054274441828170, guid: 14dc4e885c84f2f4aaec14166a32c1be, type: 3}
   property: 3
-  upgradeAmount: 0.2
+  upgradeAmount: 0.1

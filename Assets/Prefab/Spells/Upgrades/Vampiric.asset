@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Vampiric
   m_EditorClassIdentifier: Assembly-CSharp::SpellUpgrade
   upgradeName: Vampiric
-  description: Increase Vampiric health by 1%
+  description: Increase vampiric health regain by 2.5%
   icon: {fileID: -5687666349546342197, guid: 64bd879147eab4740bda42a6802c7822, type: 3}
   property: 7
-  upgradeAmount: 0.01
+  upgradeAmount: 0.015

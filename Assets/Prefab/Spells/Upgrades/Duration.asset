@@ -16,4 +16,4 @@ MonoBehaviour:
   description: Increase Duration of spell by .75 seconds
   icon: {fileID: 4948757983135555326, guid: 2a226290683827d4aa40616bb05602ad, type: 3}
   property: 2
-  upgradeAmount: 0.75
+  upgradeAmount: 0.2

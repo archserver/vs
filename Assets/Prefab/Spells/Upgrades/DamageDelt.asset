@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: DamageDelt
   m_EditorClassIdentifier: Assembly-CSharp::SpellUpgrade
   upgradeName: Damage
-  description: Increase Damage by 1
+  description: Increase Damage by .25
   icon: {fileID: 4505764762537584597, guid: bb3bf63b644c540428e8ea7a8ad9e403, type: 3}
   property: 0
-  upgradeAmount: 1
+  upgradeAmount: 0.25

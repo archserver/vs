@@ -1,3 +1,4 @@
+using Unity.Netcode;
 using UnityEngine;
 
 // Point Blank Area of Effect spell — spawns a growing area around the player that damages and pushes back enemies
@@ -15,8 +16,17 @@ public class PBAOE : Spell
         if (spawnCounter <= 0)
         {
             spawnCounter = castFrequency;
-            Instantiate(prefab, transform.position, transform.rotation, transform);
-            GameStats.GSInstance.spellsCast++;
+            if (NetworkGameManager.IsSolo)
+            {
+                Instantiate(prefab, transform.position, transform.rotation, transform);
+            }
+            else if (NetworkManager.Singleton != null && NetworkManager.Singleton.IsServer)
+            {
+                // only host spawns the networked spell effect
+                var obj = Instantiate(prefab, transform.position, transform.rotation);
+                obj.GetComponent<NetworkObject>().Spawn();
+            }
+            if (GameStats.GSInstance != null) GameStats.GSInstance.spellsCast++;
         }
     }
 }

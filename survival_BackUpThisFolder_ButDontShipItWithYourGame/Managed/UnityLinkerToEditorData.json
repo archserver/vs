@@ -17,7 +17,8 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -25,7 +26,8 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -33,7 +35,8 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -102,7 +105,8 @@
           {
             "name": "AudioClip",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -125,7 +129,8 @@
           {
             "name": "AudioMixer",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -133,7 +138,8 @@
           {
             "name": "AudioMixerGroup",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -141,7 +147,8 @@
           {
             "name": "AudioMixerSnapshot",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -149,7 +156,8 @@
           {
             "name": "AudioResource",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -157,7 +165,8 @@
           {
             "name": "AudioSource",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1132,6 +1141,18 @@
             "icon": null
           },
           {
+            "name": "FixedJoint",
+            "scenes": [],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
+            "name": "Joint",
+            "scenes": [],
+            "dependencyType": 1,
+            "icon": null
+          },
+          {
             "name": "MeshCollider",
             "scenes": [],
             "dependencyType": 0,
@@ -1185,9 +1206,16 @@
         "name": "Physics2D",
         "dependencies": [
           {
+            "name": "AnchoredJoint2D",
+            "scenes": [],
+            "dependencyType": 1,
+            "icon": null
+          },
+          {
             "name": "BoxCollider2D",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1195,7 +1223,8 @@
           {
             "name": "CapsuleCollider2D",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1203,7 +1232,7 @@
           {
             "name": "CircleCollider2D",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1227,6 +1256,18 @@
             "icon": null
           },
           {
+            "name": "FixedJoint2D",
+            "scenes": [],
+            "dependencyType": 0,
+            "icon": null
+          },
+          {
+            "name": "Joint2D",
+            "scenes": [],
+            "dependencyType": 1,
+            "icon": null
+          },
+          {
             "name": "Physics2DSettings",
             "scenes": [],
             "dependencyType": 1,
@@ -1241,7 +1282,8 @@
           {
             "name": "Rigidbody2D",
             "scenes": [
-              "Assets/Scenes/Game1.unity"
+              "Assets/Scenes/Game1.unity",
+              "Assets/Scenes/MainMenu.unity"
             ],
             "dependencyType": 0,
             "icon": null

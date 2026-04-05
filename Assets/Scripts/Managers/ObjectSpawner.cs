@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -37,8 +38,11 @@ public class ObjectSpawner : MonoBehaviour
 
     void Update()
     {
-        // stop spawning if the player is dead or the game is paused
-        if (!PlayerController.PlayerInstance.isActiveAndEnabled) return;
+        // only the server spawns objects
+        if (!NetworkManager.Singleton.IsServer && !NetworkGameManager.IsSolo) return;
+
+        // stop spawning if the player is dead, not yet spawned, or the game is paused
+        if (PlayerController.PlayerInstance == null || !PlayerController.PlayerInstance.isActiveAndEnabled) return;
         if (Time.timeScale == 0f) return;
 
         // check each frame for a gem spawn — 1% chance, capped at maxGems
@@ -62,7 +66,15 @@ public class ObjectSpawner : MonoBehaviour
             Vector3 spawnPos = validSpawnPositions[Random.Range(0, validSpawnPositions.Count)];
             if (!IsVisibleToCamera(spawnPos) || i == maxAttempts - 1) // if on the last attempt it will force spawn
             {
-                Instantiate(prefab, spawnPos, transform.rotation, transform);
+                if (NetworkGameManager.IsSolo)
+                {
+                    Instantiate(prefab, spawnPos, transform.rotation, transform);
+                }
+                else
+                {
+                    var obj = Instantiate(prefab, spawnPos, transform.rotation);
+                    obj.GetComponent<NetworkObject>().Spawn();
+                }
                 counter++;
                 return;
             }

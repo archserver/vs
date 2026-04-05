@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: CastFrequency
   m_EditorClassIdentifier: Assembly-CSharp::SpellUpgrade
   upgradeName: Cast Frequency
-  description: Reduce Cast Frequency by .5 seconds
+  description: Cast more often frequency by .2 seconds
   icon: {fileID: -5603112448181597096, guid: dbdae8d6f17cfdb43b197d35ad6cd736, type: 3}
   property: 1
-  upgradeAmount: -0.5
+  upgradeAmount: 0.2

@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -35,8 +36,11 @@ public class EnemySpawner : MonoBehaviour
 
     void Update()
     {
-        // stop spawning if the player is dead
-        if (!PlayerController.PlayerInstance.isActiveAndEnabled) return;
+        // only the server spawns enemies
+        if (!NetworkManager.Singleton.IsServer && !NetworkGameManager.IsSolo) return;
+
+        // stop spawning if the player is dead or not yet spawned
+        if (PlayerController.PlayerInstance == null || !PlayerController.PlayerInstance.isActiveAndEnabled) return;
 
         // count up and spawn when the interval is reached
         spawnTimer += Time.deltaTime;
@@ -75,7 +79,15 @@ public class EnemySpawner : MonoBehaviour
             Vector2 spawnPos = _validSpawnPositions[Random.Range(0, _validSpawnPositions.Count)];
             if (!IsVisibleToCamera(spawnPos) || i == maxAttempts-1) // if last loop time spawn enemy 
             {
-                Instantiate(waves[waveNumber].enemyPrefab, spawnPos, transform.rotation, transform);
+                if (NetworkGameManager.IsSolo)
+                {
+                    Instantiate(waves[waveNumber].enemyPrefab, spawnPos, transform.rotation, transform);
+                }
+                else
+                {
+                    var enemy = Instantiate(waves[waveNumber].enemyPrefab, spawnPos, transform.rotation);
+                    enemy.GetComponent<NetworkObject>().Spawn();
+                }
                 enemiesSpawned++;
                 return;
             }

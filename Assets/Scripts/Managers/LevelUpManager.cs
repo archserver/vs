@@ -43,9 +43,12 @@ public class LevelUpManager : MonoBehaviour
             card.Setup(randomUpgrade, randomSpell);
         }
 
-        // show the panel and pause the game
+        // show the panel and block player input — in multiplayer server keeps running
         levelUpPanel.SetActive(true);
-        Time.timeScale = 0f;
+        if (NetworkGameManager.IsSolo)
+            Time.timeScale = 0f;
+        else
+            PlayerController.PlayerInstance.SetLevelingUp(true);
     }
 
     // called by the selected UpgradeCard — apply the upgrade to the spell and resume
@@ -69,6 +72,9 @@ public class LevelUpManager : MonoBehaviour
 
         // hide the panel and resume the game
         levelUpPanel.SetActive(false);
-        Time.timeScale = 1f;
+        if (NetworkGameManager.IsSolo)
+            Time.timeScale = 1f;
+        else
+            PlayerController.PlayerInstance.SetLevelingUp(false);
     }
 }

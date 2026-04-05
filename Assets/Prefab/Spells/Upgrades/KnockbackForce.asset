@@ -16,4 +16,4 @@ MonoBehaviour:
   description: Increase push force on creatures by .2
   icon: {fileID: -5496337049785157006, guid: 3d554de62ec87a94e9f23b537ee597f0, type: 3}
   property: 5
-  upgradeAmount: 0.2
+  upgradeAmount: 0.25

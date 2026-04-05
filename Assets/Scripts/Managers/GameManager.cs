@@ -1,9 +1,10 @@
 using System.Collections;
+using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 // Manages overall game state — pause, game over, restart, and survival timer
-public class GameManager : MonoBehaviour
+public class GameManager : NetworkBehaviour
 {
     public static GameManager GMInstance;       // pointer so any script can trigger game events
     private bool paused = false;                // tracks whether the game is currently paused
@@ -25,7 +26,7 @@ public class GameManager : MonoBehaviour
         if (gameIsActive)
         {
             aliveTimer += Time.deltaTime;
-            UIController.UIInstance.UpdateTime(aliveTimer);
+            UIController.UIInstance?.UpdateTime(aliveTimer);
         }
     }
 
@@ -41,12 +42,41 @@ public class GameManager : MonoBehaviour
     {
         yield return new WaitForSeconds(2f);
         GameStats.GSInstance.CommitSessionToLifetime();
+        if (NetworkGameManager.IsSolo)
+        {
+            ShowGameOverClientRpc();
+        }
+        else if (IsServer)
+        {
+            // tell all clients to show the game over screen
+            ShowGameOverClientRpc();
+        }
+    }
+
+    // shows game over panel on all clients
+    [Rpc(SendTo.ClientsAndHost)]
+    private void ShowGameOverClientRpc()
+    {
         UIController.UIInstance.ShowGameOverStats();
         UIController.UIInstance.gameOverPanel.SetActive(true);
     }
 
     // reload the game scene to restart from the beginning
     public void Restart()
+    {
+        if (NetworkGameManager.IsSolo)
+        {
+            SceneManager.LoadScene("Game1");
+        }
+        else if (IsServer)
+        {
+            RestartClientRpc();
+        }
+    }
+
+    // reload the scene on all clients
+    [Rpc(SendTo.ClientsAndHost)]
+    private void RestartClientRpc()
     {
         SceneManager.LoadScene("Game1");
     }
