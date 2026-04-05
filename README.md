@@ -16,7 +16,7 @@
 
 {I am using Unity Transport Protocol which is functioning on TCP with a port of 7654}
 
-{Message format are Object Identifiers with X & Y positioning, along with Transforms for objects which move with X & Y along with Z rotation }
+{Message format are Player, Spell, Creature, and objects with X & Y positioning and information, along with Transforms for Player and Creatures which move with X & Y along with Z rotation. Damage, Health, spawning and destruction of creatures and objects. }
 
 # Development Environment
 
